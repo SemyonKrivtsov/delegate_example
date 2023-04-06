@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  testVC
+//  LoginAppInCode
 //
-//  Created by Семён Кривцов on 22.01.2022.
+//  Created by Nasim Nozirov on 18.03.2023.
 //
 
 import UIKit
